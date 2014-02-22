@@ -36,7 +36,7 @@ REMINDER -  - the child determies the hieght of the parent element.
 
 /* box sizing - adjusts padding  - draws the box on the interior */
 
-* {
+ {
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
